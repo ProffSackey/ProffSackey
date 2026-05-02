@@ -19,8 +19,8 @@ I am a final-year Computer Science student at **KNUST** and a tech-entrepreneur 
 ---
 
 ### 📈 Current Focus
-- **PASDevSoftware:** Leading a team to build custom E-commerce and POS solutions (e.g., Boanipa Online Market).
-- **RASDAV Logistics:** Streamlining importation workflows and organizing monthly professional training.
+- **PASDevSoftware:** is a technology company founded by Sackey Abednego, focused on building scalable software solutions for businesses and individuals. The company specializes in full‑stack development, backend engineering, and UI/UX design, with a proven track record of delivering e‑commerce platforms, point‑of‑sale (POS) systems, and custom web applications. PASDevSoftware emphasizes innovation, reliability, and user‑centered design, helping clients streamline operations and expand their digital presence..
+- **RASDAV Logistics:**  is a Ghana‑based logistics and operations company. The firm provides global import and freight solutions across air, sea, and land, with a focus on efficiency, reliability, and long‑term business growth. Its services include customs clearance, warehousing, and dedicated customer care, designed to help businesses streamline supply chains and expand their reach in international trade..
 - **Academic Leadership:** Serving on the KNUST College Academic Committee (2025/2026).
 
 ### 🏆 Recognitions
