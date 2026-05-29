@@ -34,4 +34,4 @@ I am a final-year Computer Science student at **KNUST** and a tech-entrepreneur 
 - **LinkedIn:** [bit.ly/47QfOPC](http://bit.ly/47QfOPC)
 - **Email:** [sackeyabednego8@gmail.com](mailto:sackeyabednego8@gmail.com)
 
-*"Building the future of African Trade and Tech, one line of code at a time."*
+*"Building the future of African we want."*
