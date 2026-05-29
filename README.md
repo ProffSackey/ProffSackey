@@ -2,7 +2,7 @@
 
 ### 🚀 Founder & CEO | Full-Stack Developer | Logistics Entrepreneur
 
-I am a final-year Computer Science student at **KNUST** and a tech-entrepreneur driven by the desire to build scalable solutions for the African market. I balance my time between engineering robust software at **PASDevSoftware** and managing international trade operations at **RASDAV Logistics**.
+I am a final-year Computer Science student at **KNUST** and a tech-entrepreneur driven by the desire to build scalable solutions for the African market. I balance my time between engineering robust software at **Pasdev Software** and managing international trade operations at **RASDAV Logistics**.
 
 ---
 
@@ -19,7 +19,7 @@ I am a final-year Computer Science student at **KNUST** and a tech-entrepreneur 
 ---
 
 ### 📈 Current Focus
-- **PASDevSoftware:** is a technology company founded by Sackey Abednego, focused on building scalable software solutions for businesses and individuals. The company specializes in full‑stack development, backend engineering, and UI/UX design, with a proven track record of delivering e‑commerce platforms, point‑of‑sale (POS) systems, and custom web applications. PASDevSoftware emphasizes innovation, reliability, and user‑centered design, helping clients streamline operations and expand their digital presence..
+- **Pasdev Software:** is a technology company founded by Sackey Abednego also known as Proff Nana Kojo, focused on building scalable software solutions for businesses and individuals. The company specializes in full‑stack development, backend engineering, and UI/UX design, with a proven track record of delivering e‑commerce platforms, point‑of‑sale (POS) systems, and custom web applications. PASDevSoftware emphasizes innovation, reliability, and user‑centered design, helping clients streamline operations and expand their digital presence..
 - **RASDAV Logistics:**  is a Ghana‑based logistics and operations company. The firm provides global import and freight solutions across air, sea, and land, with a focus on efficiency, reliability, and long‑term business growth. Its services include customs clearance, warehousing, and dedicated customer care, designed to help businesses streamline supply chains and expand their reach in international trade..
 - **Academic Leadership:** Serving on the KNUST College Academic Committee (2025/2026).
 
